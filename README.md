@@ -1,0 +1,1 @@
+# Dinamica-del-Eco-de-Loschmidt-en-cadenas-topologicas-Modelo-SSH
